@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hashsham Abid
 
-<!--
-**hashshamabid/hashshamabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Mechatronic / Biomedica Engineer with strong interest in data, automation, and real-world problem solving.
 
-Here are some ideas to get you started:
+## What I am Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Excel dashboard and data analysis
+- Python and Machine Learning
+- Arduino and Embedded systems
+- Engineering fundamentals
+
+## Projects I am working on 
+
+- Excel dashboard and business analysis tools
+- Inventory and data tracking systems
+- Machine Learning models using Python
+- Arduino-based automation projects
+
+## My Goals
+
+To build a strong technical portofolio and develop skills in engineering, data analysis, and intelligent systems.
